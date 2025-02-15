@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loga{
+    width: 100%;
+    height:800px;
+    border: 8px solid black;
+    display: flex;
+}
+.loga1{
+    width: 45%;
+    height: 100%;
+    border: 2px solid black;
+}
+.loga2{
+    width: 55%;
+    height: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    flex-direction: column;
+}
+.loga1 img{
+    width: 100%;
+    height: 100%;
+}
+.loga21{
+    width:50%;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.loga21 form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.loga21 input{
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+}
+.loga21 #su{
+    width: 150px;
+    height: 40px;
+}
+.loga21 #su:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+}
+.loga21 p{
+    font-size:20px;
+}

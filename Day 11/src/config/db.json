@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "555b",
+      "email": "madhav@gmail",
+      "password": "amdhav"
+    },
+    {
+      "id": "88f4",
+      "email": "milindparekh17@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e867",
+      "email": "milindparekh17@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "dd82",
+      "email": "milindparekh17@gmail.com",
+      "password": "123"
+    }
+  ],
+  "men": [
+    {
+      "id": "1",
+      "img": "https://images.bewakoof.com/t640/men-s-skipper-blue-hulk-graphic-printed-t-shirt-659595-1738821954-1.jpg",
+      "price": 1500,
+      "title": "Bewakoof®",
+      "description": "Men's Black Batman Outline Logo Graphic Print"
+    },
+    {
+      "id": "2",
+      "img": "https://images.bewakoof.com/t640/men-s-blue-dementors-graphic-printed-t-shirt-589152-1736506911-1.gif",
+      "price": 2000,
+      "title": "Bewakoof®",
+      "description": "ddad"
+    },
+    {
+      "id": "3",
+      "img": "https://images.bewakoof.com/t640/men-s-black-red-hulk-graphic-printed-oversized-acid-wash-t-shirt-662702-1739455028-1.jpg",
+      "price": 2000,
+      "title": "Bewakoof®",
+      "description": "ddad"
+    },
+    {
+      "id": "4",
+      "img": "https://images.bewakoof.com/t640/men-s-brown-beast-within-graphic-printed-oversized-t-shirt-620155-1724924758-1.jpg"
+    },
+    {
+      "id": "5",
+      "img": "https://images.bewakoof.com/t640/men-s-sage-green-trousers-340543-1724158977-1.jpg"
+    },
+    {
+      "id": "6",
+      "img": "https://images.bewakoof.com/t640/men-s-white-better-better-graphic-printed-oversized-t-shirt-629620-1736761552-1.jpg"
+    },
+    {
+      "id": "7",
+      "img": "https://images.bewakoof.com/t640/men-s-red-pocket-jerry-graphic-printed-t-shirt-241993-1738219124-1.jpg"
+    },
+    {
+      "id": "8",
+      "img": "https://images.bewakoof.com/t640/men-s-blue-peace-out-astronaut-graphic-printed-oversized-t-shirt-519194-1734686107-1.jpg"
+    },
+    {
+      "id": "9",
+      "img": "https://images.bewakoof.com/t640/men-s-green-contestants-graphic-printed-oversized-t-shirt-655110-1734613596-1.jpg"
+    },
+    {
+      "id": "10",
+      "img": "https://images.bewakoof.com/t640/men-s-black-adventure-time-t-shirt-376086-1717060419-1.jpg"
+    },
+    {
+      "id": "11",
+      "img": "https://images.bewakoof.com/t640/men-s-white-keep-listening-typography-t-shirt-465268-1738219111-1.jpg"
+    },
+    {
+      "id": "12",
+      "img": "https://images.bewakoof.com/t640/men-s-gardenia-who-cares-graphic-printed-oversized-t-shirt-646664-1737366162-1.jpg"
+    },
+    {
+      "id": "13",
+      "img": "https://images.bewakoof.com/t640/men-s-navy-blue-the-dark-knight-graphic-printed-oversized-t-shirt-592058-1731661124-1.jpg"
+    },
+    {
+      "id": "14",
+      "img": "https://images.bewakoof.com/t640/men-s-black-iron-man-of-war-graphic-printed-t-shirt-220650-1730990210-1.jpg"
+    },
+    {
+      "id": "15",
+      "img": "https://images.bewakoof.com/t640/men-s-black-chill-guy-graphic-printed-oversized-t-shirt-655006-1733216178-1.jpg"
+    },
+    {
+      "id": "16",
+      "img": "https://images.bewakoof.com/t640/men-s-black-explorer-graphic-printed-t-shirt-608322-1726228527-1.jpg"
+    }
+  ]
+}

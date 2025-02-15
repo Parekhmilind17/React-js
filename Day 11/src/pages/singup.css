@@ -1,0 +1,53 @@
+.siga{
+    width: 100%;
+    height: 700px;
+    border: 4px solid black; 
+    display: flex;  
+}
+.siga1{
+    width: 40%;
+    height: 100%;
+    border: 1px solid black;
+}
+.siga1 img{
+    width: 100%;
+    height: 100%;
+}
+.siga2{
+    width: 60%;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.siga21{
+    width: 30%;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.siga21 form{
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+}
+.siga21 form input{
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+}
+.siga21 form #bt{
+    width: 40%;
+}
+.siga21 form  #bt:hover{
+    background-color:black;
+    color: white;
+    transition: .5s;
+}

@@ -1,0 +1,88 @@
+.mena{
+    width: 100%;
+    height:auto;
+    border: 1px solid black;
+    display: flex;
+}
+.mena1{
+    width: 25%;
+    height: 100%;
+    border: 1px solid black;
+}
+.mena2 {
+    width: 75%;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+.menap
+{
+width: 100%;
+height:50px;
+border: 4px solid black;
+}
+.menap span{
+    color:#757575;
+}
+.menpro{
+    width: 100%;
+    height: 400vh;
+    border: 10px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* align-items:center; */
+
+}
+.pro{
+    width: 350px;
+    height: auto;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+
+
+}
+.mena21{
+    width:95%;
+    height:450px;
+    /* border: 10px solid black; */
+    display: flex;  
+    flex-direction: column;
+    align-items: end;
+    
+    
+    
+}
+.mena211{
+    width: 100%;
+    height: 170px;
+    border: 1px solid black;
+
+}
+.mena21 img,.mena22 img,.mena23 img,.mena24 img,.mena25 img,.mena26 img,.mena27 img,.mena28 img,.mena29 img,.mena30 img,.mena31 img,.mena32 img{
+    width: 100%;
+    height: 100%;
+}
+.wish{
+    width:355px;
+    height: 1px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: right;
+}
+.co{    
+    width: 100px;
+    height: 20px;
+    border: 1px solid gray; 
+    display: flex;
+    justify-content: center;
+    color: #757575;
+    font-weight: 800;
+}
